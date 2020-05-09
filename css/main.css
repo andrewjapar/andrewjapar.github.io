@@ -10325,6 +10325,7 @@ html body {
     padding-right: 14px;
 	white-space: nowrap;
 	overflow-x: scroll;
+	overflow-y: hidden;
 	-webkit-overflow-scrolling: touch;
 }
 .podcast__item, .blog__item {
